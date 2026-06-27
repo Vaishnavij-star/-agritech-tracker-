@@ -1,6 +1,6 @@
 # AgriTech Startup Discovery Tracker
 
-An automated solution that periodically scans online sources to identify newly emerging AgriTech startups — built for The Nudge AI Product Engineer Intern assignment.
+An automated solution that periodically scans online sources to identify newly emerging AgriTech startups 
 
 ---
 
