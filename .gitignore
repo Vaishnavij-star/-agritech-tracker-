@@ -1,0 +1,5 @@
+env
+
+seen_hashes.json
+__pycache__/
+*.pyc
